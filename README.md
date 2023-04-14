@@ -24,6 +24,8 @@
 
 * 6. network.security.esni.enabled = true
 
+* 7. network.trr.mode = 3 &nbsp;&nbsp;&nbsp;&nbsp;（可選）
+
 [https://crypto.cloudflare.com/cdn-cgi/trace/](https://crypto.cloudflare.com/cdn-cgi/trace/)
 
 結果
