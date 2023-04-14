@@ -1,6 +1,6 @@
 # browser-ech
 
-瀏覽器如何開啓ECH，保護你的隱私(~~如果你認爲它重要~~)
+瀏覽器如何開啓ECH(Encrypted Client Hello)，保護你的隱私，防止中間人攻擊(Man-in-the-middle attack)
 
 測試ECH是否開啓
 
