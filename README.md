@@ -2,6 +2,8 @@
 
 瀏覽器如何開啓ECH(Encrypted Client Hello)，保護你的隱私，防止中間人攻擊(Man-in-the-middle attack)
 
+支援ECH的網站才有效果
+
 測試ECH是否開啓
 
 [https://crypto.cloudflare.com/cdn-cgi/trace/](https://crypto.cloudflare.com/cdn-cgi/trace/)
